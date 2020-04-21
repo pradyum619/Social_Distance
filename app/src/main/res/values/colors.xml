@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+<!--    custom colors-->
+    <color name="darkBlue">#2133A0</color>
+    <color name="buttonText">#7C72FF</color>
+    <color name="lightGradient">#1C8ED9</color>
+    <color name="darkGradient">#2618A8</color>
+
+</resources>
